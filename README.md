@@ -47,6 +47,3 @@ python credit_fraud_detect.py
 
 ---
 
-
-
-If you want, I can also suggest a **`requirements.txt`** for your project so recruiters can run your script immediately.
